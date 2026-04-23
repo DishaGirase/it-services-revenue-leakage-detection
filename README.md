@@ -90,7 +90,7 @@ Google Sheets               Power BI
 
 Includes:
 - Project Manager vs Month Heatmap  
-- Monthly Trend Chart  
+- [Monthly Trend Chart](https://github.com/DishaGirase/it-services-revenue-leakage-detection/blob/main/04_excel_analysis/Revenue_Leakage_Analysis_Excel%20-%20Revenue%20Leakage%20Analysis.pdf) 
 - Pareto Analysis (Top leakage contributors)  
 
 ---
