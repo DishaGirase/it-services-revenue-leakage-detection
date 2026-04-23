@@ -1,4 +1,4 @@
-# IT Services Revenue Leakage Detection System
+# IT Services Revenue Leakage Analysis System
 
 Detecting unbilled work and revenue loss in IT services using **PostgreSQL, Google Sheets, and Power BI**.
 
