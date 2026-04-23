@@ -198,14 +198,4 @@ This project was built as part of a self-driven data analytics portfolio to simu
 
 ---
 
-##  Connect With Me
-
-If you found this project interesting or have feedback, feel free to connect:
-
--  LinkedIn: https://www.linkedin.com/in/your-link
--  Email: dishagirase2806@gmail.com
--  GitHub: https://github.com/DishaGirase
-
----
-
 ⭐ If you found this useful, consider giving it a star!
