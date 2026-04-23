@@ -1,0 +1,521 @@
+timesheet_id,project_id,project_name,employee_id,employee_name,billing_month,logged_hours,hourly_rate_inr,project_manager,department
+TS-00001,PROJ-001,E-Commerce Portal Revamp,EMP-026,Bindu Narayanan,2025-01,136.3,2200,Karan Patel,Frontend Development
+TS-00002,PROJ-001,E-Commerce Portal Revamp,EMP-002,Bhavna Joshi,2025-01,66.1,2100,Karan Patel,Frontend Development
+TS-00003,PROJ-001,E-Commerce Portal Revamp,EMP-026,Bindu Narayanan,2025-02,83.3,2000,Karan Patel,Frontend Development
+TS-00004,PROJ-001,E-Commerce Portal Revamp,EMP-002,Bhavna Joshi,2025-02,157.8,2300,Karan Patel,Frontend Development
+TS-00005,PROJ-001,E-Commerce Portal Revamp,EMP-024,Zara Hussain,2025-02,46.1,2200,Karan Patel,Frontend Development
+TS-00006,PROJ-001,E-Commerce Portal Revamp,EMP-015,Qasim Ali,2025-02,119.8,2300,Karan Patel,Frontend Development
+TS-00007,PROJ-001,E-Commerce Portal Revamp,EMP-026,Bindu Narayanan,2025-03,28.9,2300,Karan Patel,Frontend Development
+TS-00008,PROJ-001,E-Commerce Portal Revamp,EMP-024,Zara Hussain,2025-03,89.2,2200,Karan Patel,Frontend Development
+TS-00009,PROJ-001,E-Commerce Portal Revamp,EMP-026,Bindu Narayanan,2025-04,113.5,2300,Karan Patel,Frontend Development
+TS-00010,PROJ-001,E-Commerce Portal Revamp,EMP-002,Bhavna Joshi,2025-04,110.8,2100,Karan Patel,Frontend Development
+TS-00011,PROJ-001,E-Commerce Portal Revamp,EMP-015,Qasim Ali,2025-04,47.2,2000,Karan Patel,Frontend Development
+TS-00012,PROJ-001,E-Commerce Portal Revamp,EMP-018,Tanya Mishra,2025-04,93.1,2200,Karan Patel,Frontend Development
+TS-00013,PROJ-001,E-Commerce Portal Revamp,EMP-026,Bindu Narayanan,2025-05,116.2,2000,Karan Patel,Frontend Development
+TS-00014,PROJ-001,E-Commerce Portal Revamp,EMP-002,Bhavna Joshi,2025-05,14.7,2100,Karan Patel,Frontend Development
+TS-00015,PROJ-001,E-Commerce Portal Revamp,EMP-024,Zara Hussain,2025-05,51.8,2200,Karan Patel,Frontend Development
+TS-00016,PROJ-001,E-Commerce Portal Revamp,EMP-015,Qasim Ali,2025-05,118.5,2400,Karan Patel,Frontend Development
+TS-00017,PROJ-001,E-Commerce Portal Revamp,EMP-018,Tanya Mishra,2025-05,46.4,2200,Karan Patel,Frontend Development
+TS-00018,PROJ-001,E-Commerce Portal Revamp,EMP-026,Bindu Narayanan,2025-06,24.1,2300,Karan Patel,Frontend Development
+TS-00019,PROJ-001,E-Commerce Portal Revamp,EMP-002,Bhavna Joshi,2025-06,71.7,2400,Karan Patel,Frontend Development
+TS-00020,PROJ-001,E-Commerce Portal Revamp,EMP-024,Zara Hussain,2025-06,108.0,2300,Karan Patel,Frontend Development
+TS-00021,PROJ-001,E-Commerce Portal Revamp,EMP-015,Qasim Ali,2025-06,119.2,2300,Karan Patel,Frontend Development
+TS-00022,PROJ-001,E-Commerce Portal Revamp,EMP-018,Tanya Mishra,2025-06,38.7,2200,Karan Patel,Frontend Development
+TS-00023,PROJ-002,Banking Loan Origination System,EMP-030,Falak Shaikh,2025-01,37.5,3000,Priya Mehta,Data Engineering
+TS-00024,PROJ-002,Banking Loan Origination System,EMP-003,Chetan Rao,2025-01,131.2,3200,Priya Mehta,Data Engineering
+TS-00025,PROJ-002,Banking Loan Origination System,EMP-030,Falak Shaikh,2025-02,107.8,3000,Priya Mehta,Data Engineering
+TS-00026,PROJ-002,Banking Loan Origination System,EMP-013,Nikhil Sinha,2025-02,24.0,3200,Priya Mehta,Data Engineering
+TS-00027,PROJ-002,Banking Loan Origination System,EMP-003,Chetan Rao,2025-02,71.0,3000,Priya Mehta,Data Engineering
+TS-00028,PROJ-002,Banking Loan Origination System,EMP-003,Chetan Rao,2025-03,10.3,2900,Priya Mehta,Data Engineering
+TS-00029,PROJ-002,Banking Loan Origination System,EMP-013,Nikhil Sinha,2025-04,52.8,3100,Priya Mehta,Data Engineering
+TS-00030,PROJ-002,Banking Loan Origination System,EMP-003,Chetan Rao,2025-04,127.5,3100,Priya Mehta,Data Engineering
+TS-00031,PROJ-002,Banking Loan Origination System,EMP-030,Falak Shaikh,2025-05,38.5,2800,Priya Mehta,Data Engineering
+TS-00032,PROJ-002,Banking Loan Origination System,EMP-013,Nikhil Sinha,2025-05,120.4,2700,Priya Mehta,Data Engineering
+TS-00033,PROJ-002,Banking Loan Origination System,EMP-003,Chetan Rao,2025-05,17.5,3000,Priya Mehta,Data Engineering
+TS-00034,PROJ-002,Banking Loan Origination System,EMP-013,Nikhil Sinha,2025-06,18.5,3000,Priya Mehta,Data Engineering
+TS-00035,PROJ-003,HR Self-Service Portal,EMP-027,Chirag Malhotra,2025-01,20.2,1900,Priya Mehta,Data Engineering
+TS-00036,PROJ-003,HR Self-Service Portal,EMP-021,Waseem Khan,2025-01,151.2,1800,Priya Mehta,Data Engineering
+TS-00037,PROJ-003,HR Self-Service Portal,EMP-020,Vandana Tiwari,2025-01,16.0,1600,Priya Mehta,Data Engineering
+TS-00038,PROJ-003,HR Self-Service Portal,EMP-029,Eshan Tripathi,2025-01,94.8,1700,Priya Mehta,Data Engineering
+TS-00039,PROJ-003,HR Self-Service Portal,EMP-028,Disha Patil,2025-01,110.5,1700,Priya Mehta,Data Engineering
+TS-00040,PROJ-003,HR Self-Service Portal,EMP-027,Chirag Malhotra,2025-02,29.6,1900,Priya Mehta,Data Engineering
+TS-00041,PROJ-003,HR Self-Service Portal,EMP-021,Waseem Khan,2025-02,149.4,2000,Priya Mehta,Data Engineering
+TS-00042,PROJ-003,HR Self-Service Portal,EMP-020,Vandana Tiwari,2025-02,103.2,1800,Priya Mehta,Data Engineering
+TS-00043,PROJ-003,HR Self-Service Portal,EMP-029,Eshan Tripathi,2025-02,90.6,1800,Priya Mehta,Data Engineering
+TS-00044,PROJ-003,HR Self-Service Portal,EMP-028,Disha Patil,2025-02,62.4,1600,Priya Mehta,Data Engineering
+TS-00045,PROJ-003,HR Self-Service Portal,EMP-027,Chirag Malhotra,2025-03,52.7,1800,Priya Mehta,Data Engineering
+TS-00046,PROJ-003,HR Self-Service Portal,EMP-021,Waseem Khan,2025-03,55.4,2000,Priya Mehta,Data Engineering
+TS-00047,PROJ-003,HR Self-Service Portal,EMP-029,Eshan Tripathi,2025-03,110.2,1800,Priya Mehta,Data Engineering
+TS-00048,PROJ-003,HR Self-Service Portal,EMP-027,Chirag Malhotra,2025-04,141.7,1700,Priya Mehta,Data Engineering
+TS-00049,PROJ-003,HR Self-Service Portal,EMP-020,Vandana Tiwari,2025-04,33.3,1700,Priya Mehta,Data Engineering
+TS-00050,PROJ-003,HR Self-Service Portal,EMP-029,Eshan Tripathi,2025-04,61.4,1900,Priya Mehta,Data Engineering
+TS-00051,PROJ-003,HR Self-Service Portal,EMP-027,Chirag Malhotra,2025-05,47.7,1900,Priya Mehta,Data Engineering
+TS-00052,PROJ-003,HR Self-Service Portal,EMP-021,Waseem Khan,2025-05,105.1,1900,Priya Mehta,Data Engineering
+TS-00053,PROJ-003,HR Self-Service Portal,EMP-020,Vandana Tiwari,2025-05,60.0,1700,Priya Mehta,Data Engineering
+TS-00054,PROJ-003,HR Self-Service Portal,EMP-028,Disha Patil,2025-05,76.3,1900,Priya Mehta,Data Engineering
+TS-00055,PROJ-003,HR Self-Service Portal,EMP-027,Chirag Malhotra,2025-06,26.8,2000,Priya Mehta,Data Engineering
+TS-00056,PROJ-003,HR Self-Service Portal,EMP-021,Waseem Khan,2025-06,32.4,1600,Priya Mehta,Data Engineering
+TS-00057,PROJ-003,HR Self-Service Portal,EMP-020,Vandana Tiwari,2025-06,92.9,1800,Priya Mehta,Data Engineering
+TS-00058,PROJ-003,HR Self-Service Portal,EMP-029,Eshan Tripathi,2025-06,64.7,2000,Priya Mehta,Data Engineering
+TS-00059,PROJ-004,Data Warehouse Migration,EMP-019,Uday Kulkarni,2025-01,63.7,3500,Karan Patel,Data Engineering
+TS-00060,PROJ-004,Data Warehouse Migration,EMP-007,Harsh Agarwal,2025-01,63.1,3500,Karan Patel,Data Engineering
+TS-00061,PROJ-004,Data Warehouse Migration,EMP-002,Bhavna Joshi,2025-01,148.9,3300,Karan Patel,Data Engineering
+TS-00062,PROJ-004,Data Warehouse Migration,EMP-019,Uday Kulkarni,2025-02,130.0,3300,Karan Patel,Data Engineering
+TS-00063,PROJ-004,Data Warehouse Migration,EMP-007,Harsh Agarwal,2025-02,36.9,3500,Karan Patel,Data Engineering
+TS-00064,PROJ-004,Data Warehouse Migration,EMP-023,Yogesh Bhatt,2025-02,71.8,3500,Karan Patel,Data Engineering
+TS-00065,PROJ-004,Data Warehouse Migration,EMP-003,Chetan Rao,2025-02,47.2,3300,Karan Patel,Data Engineering
+TS-00066,PROJ-004,Data Warehouse Migration,EMP-002,Bhavna Joshi,2025-02,67.4,3200,Karan Patel,Data Engineering
+TS-00067,PROJ-004,Data Warehouse Migration,EMP-019,Uday Kulkarni,2025-03,39.9,3500,Karan Patel,Data Engineering
+TS-00068,PROJ-004,Data Warehouse Migration,EMP-007,Harsh Agarwal,2025-03,133.1,3500,Karan Patel,Data Engineering
+TS-00069,PROJ-004,Data Warehouse Migration,EMP-023,Yogesh Bhatt,2025-03,109.0,3400,Karan Patel,Data Engineering
+TS-00070,PROJ-004,Data Warehouse Migration,EMP-003,Chetan Rao,2025-03,20.4,3500,Karan Patel,Data Engineering
+TS-00071,PROJ-004,Data Warehouse Migration,EMP-002,Bhavna Joshi,2025-03,86.4,3500,Karan Patel,Data Engineering
+TS-00072,PROJ-004,Data Warehouse Migration,EMP-007,Harsh Agarwal,2025-04,14.1,3500,Karan Patel,Data Engineering
+TS-00073,PROJ-004,Data Warehouse Migration,EMP-023,Yogesh Bhatt,2025-04,97.1,3500,Karan Patel,Data Engineering
+TS-00074,PROJ-004,Data Warehouse Migration,EMP-003,Chetan Rao,2025-04,99.5,3400,Karan Patel,Data Engineering
+TS-00075,PROJ-004,Data Warehouse Migration,EMP-002,Bhavna Joshi,2025-04,75.5,3500,Karan Patel,Data Engineering
+TS-00076,PROJ-004,Data Warehouse Migration,EMP-019,Uday Kulkarni,2025-05,144.9,3300,Karan Patel,Data Engineering
+TS-00077,PROJ-004,Data Warehouse Migration,EMP-007,Harsh Agarwal,2025-05,75.4,3500,Karan Patel,Data Engineering
+TS-00078,PROJ-004,Data Warehouse Migration,EMP-003,Chetan Rao,2025-05,151.0,3500,Karan Patel,Data Engineering
+TS-00079,PROJ-004,Data Warehouse Migration,EMP-002,Bhavna Joshi,2025-05,74.7,3500,Karan Patel,Data Engineering
+TS-00080,PROJ-004,Data Warehouse Migration,EMP-007,Harsh Agarwal,2025-06,109.5,3200,Karan Patel,Data Engineering
+TS-00081,PROJ-004,Data Warehouse Migration,EMP-003,Chetan Rao,2025-06,110.0,3400,Karan Patel,Data Engineering
+TS-00082,PROJ-004,Data Warehouse Migration,EMP-002,Bhavna Joshi,2025-06,93.2,3300,Karan Patel,Data Engineering
+TS-00083,PROJ-005,Mobile App — iOS & Android,EMP-025,Amit Chaturvedi,2025-01,66.9,2700,Sneha Kulkarni,Support
+TS-00084,PROJ-005,Mobile App — iOS & Android,EMP-010,Kavya Menon,2025-01,95.4,2600,Sneha Kulkarni,Support
+TS-00085,PROJ-005,Mobile App — iOS & Android,EMP-028,Disha Patil,2025-01,41.5,2700,Sneha Kulkarni,Support
+TS-00086,PROJ-005,Mobile App — iOS & Android,EMP-025,Amit Chaturvedi,2025-02,58.3,2600,Sneha Kulkarni,Support
+TS-00087,PROJ-005,Mobile App — iOS & Android,EMP-010,Kavya Menon,2025-02,86.7,2800,Sneha Kulkarni,Support
+TS-00088,PROJ-005,Mobile App — iOS & Android,EMP-028,Disha Patil,2025-02,108.8,2500,Sneha Kulkarni,Support
+TS-00089,PROJ-005,Mobile App — iOS & Android,EMP-025,Amit Chaturvedi,2025-03,102.9,2400,Sneha Kulkarni,Support
+TS-00090,PROJ-005,Mobile App — iOS & Android,EMP-003,Chetan Rao,2025-03,56.6,2800,Sneha Kulkarni,Support
+TS-00091,PROJ-005,Mobile App — iOS & Android,EMP-028,Disha Patil,2025-03,16.9,2900,Sneha Kulkarni,Support
+TS-00092,PROJ-005,Mobile App — iOS & Android,EMP-025,Amit Chaturvedi,2025-04,125.3,2600,Sneha Kulkarni,Support
+TS-00093,PROJ-005,Mobile App — iOS & Android,EMP-003,Chetan Rao,2025-04,117.8,2500,Sneha Kulkarni,Support
+TS-00094,PROJ-005,Mobile App — iOS & Android,EMP-028,Disha Patil,2025-04,32.1,2700,Sneha Kulkarni,Support
+TS-00095,PROJ-005,Mobile App — iOS & Android,EMP-028,Disha Patil,2025-05,42.8,2800,Sneha Kulkarni,Support
+TS-00096,PROJ-005,Mobile App — iOS & Android,EMP-025,Amit Chaturvedi,2025-06,79.7,2600,Sneha Kulkarni,Support
+TS-00097,PROJ-005,Mobile App — iOS & Android,EMP-003,Chetan Rao,2025-06,30.0,2600,Sneha Kulkarni,Support
+TS-00098,PROJ-005,Mobile App — iOS & Android,EMP-028,Disha Patil,2025-06,93.8,2500,Sneha Kulkarni,Support
+TS-00099,PROJ-006,DevOps CI/CD Pipeline Setup,EMP-028,Disha Patil,2025-01,76.4,3000,Rahul Desai,DevOps
+TS-00100,PROJ-006,DevOps CI/CD Pipeline Setup,EMP-013,Nikhil Sinha,2025-01,146.0,2800,Rahul Desai,DevOps
+TS-00101,PROJ-006,DevOps CI/CD Pipeline Setup,EMP-009,Jayesh Thakkar,2025-01,139.2,2800,Rahul Desai,DevOps
+TS-00102,PROJ-006,DevOps CI/CD Pipeline Setup,EMP-028,Disha Patil,2025-02,136.0,2700,Rahul Desai,DevOps
+TS-00103,PROJ-006,DevOps CI/CD Pipeline Setup,EMP-004,Deepa Nair,2025-02,82.7,2700,Rahul Desai,DevOps
+TS-00104,PROJ-006,DevOps CI/CD Pipeline Setup,EMP-013,Nikhil Sinha,2025-02,117.0,2700,Rahul Desai,DevOps
+TS-00105,PROJ-006,DevOps CI/CD Pipeline Setup,EMP-009,Jayesh Thakkar,2025-02,144.0,2600,Rahul Desai,DevOps
+TS-00106,PROJ-006,DevOps CI/CD Pipeline Setup,EMP-028,Disha Patil,2025-03,67.5,2600,Rahul Desai,DevOps
+TS-00107,PROJ-006,DevOps CI/CD Pipeline Setup,EMP-004,Deepa Nair,2025-03,72.2,2700,Rahul Desai,DevOps
+TS-00108,PROJ-006,DevOps CI/CD Pipeline Setup,EMP-013,Nikhil Sinha,2025-03,19.3,3000,Rahul Desai,DevOps
+TS-00109,PROJ-006,DevOps CI/CD Pipeline Setup,EMP-009,Jayesh Thakkar,2025-03,125.5,3000,Rahul Desai,DevOps
+TS-00110,PROJ-006,DevOps CI/CD Pipeline Setup,EMP-028,Disha Patil,2025-04,142.1,2800,Rahul Desai,DevOps
+TS-00111,PROJ-006,DevOps CI/CD Pipeline Setup,EMP-004,Deepa Nair,2025-04,151.4,2700,Rahul Desai,DevOps
+TS-00112,PROJ-006,DevOps CI/CD Pipeline Setup,EMP-013,Nikhil Sinha,2025-04,143.7,3000,Rahul Desai,DevOps
+TS-00113,PROJ-006,DevOps CI/CD Pipeline Setup,EMP-009,Jayesh Thakkar,2025-04,120.2,3000,Rahul Desai,DevOps
+TS-00114,PROJ-006,DevOps CI/CD Pipeline Setup,EMP-004,Deepa Nair,2025-05,50.9,2800,Rahul Desai,DevOps
+TS-00115,PROJ-006,DevOps CI/CD Pipeline Setup,EMP-013,Nikhil Sinha,2025-05,110.3,3000,Rahul Desai,DevOps
+TS-00116,PROJ-006,DevOps CI/CD Pipeline Setup,EMP-009,Jayesh Thakkar,2025-05,136.1,3000,Rahul Desai,DevOps
+TS-00117,PROJ-006,DevOps CI/CD Pipeline Setup,EMP-004,Deepa Nair,2025-06,146.0,2900,Rahul Desai,DevOps
+TS-00118,PROJ-006,DevOps CI/CD Pipeline Setup,EMP-013,Nikhil Sinha,2025-06,22.6,2800,Rahul Desai,DevOps
+TS-00119,PROJ-007,ERP Integration Module,EMP-021,Waseem Khan,2025-01,49.0,2300,Rahul Desai,Frontend Development
+TS-00120,PROJ-007,ERP Integration Module,EMP-027,Chirag Malhotra,2025-01,60.6,2600,Rahul Desai,Frontend Development
+TS-00121,PROJ-007,ERP Integration Module,EMP-012,Mansi Gupta,2025-01,152.7,2400,Rahul Desai,Frontend Development
+TS-00122,PROJ-007,ERP Integration Module,EMP-028,Disha Patil,2025-01,122.4,2200,Rahul Desai,Frontend Development
+TS-00123,PROJ-007,ERP Integration Module,EMP-021,Waseem Khan,2025-02,20.3,2600,Rahul Desai,Frontend Development
+TS-00124,PROJ-007,ERP Integration Module,EMP-027,Chirag Malhotra,2025-02,14.7,2300,Rahul Desai,Frontend Development
+TS-00125,PROJ-007,ERP Integration Module,EMP-006,Gayatri Pillai,2025-02,45.8,2400,Rahul Desai,Frontend Development
+TS-00126,PROJ-007,ERP Integration Module,EMP-028,Disha Patil,2025-02,152.2,2400,Rahul Desai,Frontend Development
+TS-00127,PROJ-007,ERP Integration Module,EMP-026,Bindu Narayanan,2025-02,65.3,2500,Rahul Desai,Frontend Development
+TS-00128,PROJ-007,ERP Integration Module,EMP-027,Chirag Malhotra,2025-03,126.7,2200,Rahul Desai,Frontend Development
+TS-00129,PROJ-007,ERP Integration Module,EMP-012,Mansi Gupta,2025-03,96.8,2600,Rahul Desai,Frontend Development
+TS-00130,PROJ-007,ERP Integration Module,EMP-006,Gayatri Pillai,2025-03,146.2,2300,Rahul Desai,Frontend Development
+TS-00131,PROJ-007,ERP Integration Module,EMP-026,Bindu Narayanan,2025-03,98.8,2600,Rahul Desai,Frontend Development
+TS-00132,PROJ-007,ERP Integration Module,EMP-021,Waseem Khan,2025-04,114.6,2300,Rahul Desai,Frontend Development
+TS-00133,PROJ-007,ERP Integration Module,EMP-027,Chirag Malhotra,2025-04,130.8,2500,Rahul Desai,Frontend Development
+TS-00134,PROJ-007,ERP Integration Module,EMP-012,Mansi Gupta,2025-04,16.2,2400,Rahul Desai,Frontend Development
+TS-00135,PROJ-007,ERP Integration Module,EMP-006,Gayatri Pillai,2025-04,20.3,2500,Rahul Desai,Frontend Development
+TS-00136,PROJ-007,ERP Integration Module,EMP-028,Disha Patil,2025-04,73.0,2400,Rahul Desai,Frontend Development
+TS-00137,PROJ-007,ERP Integration Module,EMP-026,Bindu Narayanan,2025-04,64.3,2600,Rahul Desai,Frontend Development
+TS-00138,PROJ-007,ERP Integration Module,EMP-021,Waseem Khan,2025-05,32.9,2200,Rahul Desai,Frontend Development
+TS-00139,PROJ-007,ERP Integration Module,EMP-027,Chirag Malhotra,2025-05,107.6,2500,Rahul Desai,Frontend Development
+TS-00140,PROJ-007,ERP Integration Module,EMP-006,Gayatri Pillai,2025-05,79.7,2600,Rahul Desai,Frontend Development
+TS-00141,PROJ-007,ERP Integration Module,EMP-028,Disha Patil,2025-05,58.3,2300,Rahul Desai,Frontend Development
+TS-00142,PROJ-007,ERP Integration Module,EMP-021,Waseem Khan,2025-06,77.6,2500,Rahul Desai,Frontend Development
+TS-00143,PROJ-007,ERP Integration Module,EMP-027,Chirag Malhotra,2025-06,110.2,2300,Rahul Desai,Frontend Development
+TS-00144,PROJ-007,ERP Integration Module,EMP-012,Mansi Gupta,2025-06,58.8,2400,Rahul Desai,Frontend Development
+TS-00145,PROJ-007,ERP Integration Module,EMP-006,Gayatri Pillai,2025-06,48.8,2300,Rahul Desai,Frontend Development
+TS-00146,PROJ-007,ERP Integration Module,EMP-028,Disha Patil,2025-06,142.0,2400,Rahul Desai,Frontend Development
+TS-00147,PROJ-007,ERP Integration Module,EMP-026,Bindu Narayanan,2025-06,38.7,2300,Rahul Desai,Frontend Development
+TS-00148,PROJ-008,Customer Analytics Dashboard,EMP-022,Xena Dsouza,2025-01,93.3,3000,Rahul Desai,DevOps
+TS-00149,PROJ-008,Customer Analytics Dashboard,EMP-009,Jayesh Thakkar,2025-01,116.8,3200,Rahul Desai,DevOps
+TS-00150,PROJ-008,Customer Analytics Dashboard,EMP-023,Yogesh Bhatt,2025-01,54.1,3100,Rahul Desai,DevOps
+TS-00151,PROJ-008,Customer Analytics Dashboard,EMP-030,Falak Shaikh,2025-01,109.6,3100,Rahul Desai,DevOps
+TS-00152,PROJ-008,Customer Analytics Dashboard,EMP-022,Xena Dsouza,2025-02,61.6,3500,Rahul Desai,DevOps
+TS-00153,PROJ-008,Customer Analytics Dashboard,EMP-009,Jayesh Thakkar,2025-02,62.8,3200,Rahul Desai,DevOps
+TS-00154,PROJ-008,Customer Analytics Dashboard,EMP-023,Yogesh Bhatt,2025-02,44.6,3300,Rahul Desai,DevOps
+TS-00155,PROJ-008,Customer Analytics Dashboard,EMP-030,Falak Shaikh,2025-02,121.4,3500,Rahul Desai,DevOps
+TS-00156,PROJ-008,Customer Analytics Dashboard,EMP-022,Xena Dsouza,2025-03,38.7,3400,Rahul Desai,DevOps
+TS-00157,PROJ-008,Customer Analytics Dashboard,EMP-009,Jayesh Thakkar,2025-03,98.4,3400,Rahul Desai,DevOps
+TS-00158,PROJ-008,Customer Analytics Dashboard,EMP-023,Yogesh Bhatt,2025-03,157.1,3400,Rahul Desai,DevOps
+TS-00159,PROJ-008,Customer Analytics Dashboard,EMP-030,Falak Shaikh,2025-03,64.1,3100,Rahul Desai,DevOps
+TS-00160,PROJ-008,Customer Analytics Dashboard,EMP-022,Xena Dsouza,2025-04,29.0,2900,Rahul Desai,DevOps
+TS-00161,PROJ-008,Customer Analytics Dashboard,EMP-009,Jayesh Thakkar,2025-04,53.8,3500,Rahul Desai,DevOps
+TS-00162,PROJ-008,Customer Analytics Dashboard,EMP-023,Yogesh Bhatt,2025-04,122.9,2900,Rahul Desai,DevOps
+TS-00163,PROJ-008,Customer Analytics Dashboard,EMP-030,Falak Shaikh,2025-04,52.7,3200,Rahul Desai,DevOps
+TS-00164,PROJ-008,Customer Analytics Dashboard,EMP-022,Xena Dsouza,2025-05,154.8,3000,Rahul Desai,DevOps
+TS-00165,PROJ-008,Customer Analytics Dashboard,EMP-023,Yogesh Bhatt,2025-05,19.8,3200,Rahul Desai,DevOps
+TS-00166,PROJ-008,Customer Analytics Dashboard,EMP-030,Falak Shaikh,2025-05,113.0,3000,Rahul Desai,DevOps
+TS-00167,PROJ-008,Customer Analytics Dashboard,EMP-023,Yogesh Bhatt,2025-06,47.2,3200,Rahul Desai,DevOps
+TS-00168,PROJ-008,Customer Analytics Dashboard,EMP-030,Falak Shaikh,2025-06,99.4,3300,Rahul Desai,DevOps
+TS-00169,PROJ-009,Cybersecurity Audit Tool,EMP-020,Vandana Tiwari,2025-01,67.1,3200,Karan Patel,Support
+TS-00170,PROJ-009,Cybersecurity Audit Tool,EMP-021,Waseem Khan,2025-01,98.3,3000,Karan Patel,Support
+TS-00171,PROJ-009,Cybersecurity Audit Tool,EMP-006,Gayatri Pillai,2025-01,19.0,3300,Karan Patel,Support
+TS-00172,PROJ-009,Cybersecurity Audit Tool,EMP-020,Vandana Tiwari,2025-02,124.4,3100,Karan Patel,Support
+TS-00173,PROJ-009,Cybersecurity Audit Tool,EMP-021,Waseem Khan,2025-02,22.2,2800,Karan Patel,Support
+TS-00174,PROJ-009,Cybersecurity Audit Tool,EMP-006,Gayatri Pillai,2025-02,33.5,2900,Karan Patel,Support
+TS-00175,PROJ-009,Cybersecurity Audit Tool,EMP-020,Vandana Tiwari,2025-03,80.5,2700,Karan Patel,Support
+TS-00176,PROJ-009,Cybersecurity Audit Tool,EMP-021,Waseem Khan,2025-03,52.4,3200,Karan Patel,Support
+TS-00177,PROJ-009,Cybersecurity Audit Tool,EMP-006,Gayatri Pillai,2025-03,45.0,2900,Karan Patel,Support
+TS-00178,PROJ-009,Cybersecurity Audit Tool,EMP-020,Vandana Tiwari,2025-04,98.5,3200,Karan Patel,Support
+TS-00179,PROJ-009,Cybersecurity Audit Tool,EMP-021,Waseem Khan,2025-04,27.2,2800,Karan Patel,Support
+TS-00180,PROJ-009,Cybersecurity Audit Tool,EMP-006,Gayatri Pillai,2025-04,49.8,2800,Karan Patel,Support
+TS-00181,PROJ-009,Cybersecurity Audit Tool,EMP-020,Vandana Tiwari,2025-05,128.9,3100,Karan Patel,Support
+TS-00182,PROJ-009,Cybersecurity Audit Tool,EMP-020,Vandana Tiwari,2025-06,80.3,2900,Karan Patel,Support
+TS-00183,PROJ-009,Cybersecurity Audit Tool,EMP-021,Waseem Khan,2025-06,50.8,3000,Karan Patel,Support
+TS-00184,PROJ-009,Cybersecurity Audit Tool,EMP-006,Gayatri Pillai,2025-06,99.7,3200,Karan Patel,Support
+TS-00185,PROJ-010,Insurance Claims Automation,EMP-006,Gayatri Pillai,2025-01,100.6,2400,Priya Mehta,QA
+TS-00186,PROJ-010,Insurance Claims Automation,EMP-015,Qasim Ali,2025-01,111.1,2900,Priya Mehta,QA
+TS-00187,PROJ-010,Insurance Claims Automation,EMP-013,Nikhil Sinha,2025-01,13.1,2800,Priya Mehta,QA
+TS-00188,PROJ-010,Insurance Claims Automation,EMP-006,Gayatri Pillai,2025-02,124.5,2500,Priya Mehta,QA
+TS-00189,PROJ-010,Insurance Claims Automation,EMP-015,Qasim Ali,2025-02,76.3,2600,Priya Mehta,QA
+TS-00190,PROJ-010,Insurance Claims Automation,EMP-009,Jayesh Thakkar,2025-02,132.1,3000,Priya Mehta,QA
+TS-00191,PROJ-010,Insurance Claims Automation,EMP-006,Gayatri Pillai,2025-03,71.3,2600,Priya Mehta,QA
+TS-00192,PROJ-010,Insurance Claims Automation,EMP-015,Qasim Ali,2025-03,34.1,2700,Priya Mehta,QA
+TS-00193,PROJ-010,Insurance Claims Automation,EMP-013,Nikhil Sinha,2025-03,109.4,2600,Priya Mehta,QA
+TS-00194,PROJ-010,Insurance Claims Automation,EMP-009,Jayesh Thakkar,2025-03,15.5,2500,Priya Mehta,QA
+TS-00195,PROJ-010,Insurance Claims Automation,EMP-006,Gayatri Pillai,2025-04,27.4,2800,Priya Mehta,QA
+TS-00196,PROJ-010,Insurance Claims Automation,EMP-009,Jayesh Thakkar,2025-04,140.4,2700,Priya Mehta,QA
+TS-00197,PROJ-010,Insurance Claims Automation,EMP-006,Gayatri Pillai,2025-05,87.8,2800,Priya Mehta,QA
+TS-00198,PROJ-010,Insurance Claims Automation,EMP-015,Qasim Ali,2025-05,76.3,2500,Priya Mehta,QA
+TS-00199,PROJ-010,Insurance Claims Automation,EMP-013,Nikhil Sinha,2025-05,29.7,2600,Priya Mehta,QA
+TS-00200,PROJ-010,Insurance Claims Automation,EMP-006,Gayatri Pillai,2025-06,14.3,2800,Priya Mehta,QA
+TS-00201,PROJ-010,Insurance Claims Automation,EMP-015,Qasim Ali,2025-06,116.5,2600,Priya Mehta,QA
+TS-00202,PROJ-010,Insurance Claims Automation,EMP-013,Nikhil Sinha,2025-06,71.2,2600,Priya Mehta,QA
+TS-00203,PROJ-011,Supply Chain Visibility System,EMP-022,Xena Dsouza,2025-01,152.1,2600,Karan Patel,Backend Development
+TS-00204,PROJ-011,Supply Chain Visibility System,EMP-011,Lokesh Pandey,2025-01,149.9,2400,Karan Patel,Backend Development
+TS-00205,PROJ-011,Supply Chain Visibility System,EMP-027,Chirag Malhotra,2025-01,72.3,2500,Karan Patel,Backend Development
+TS-00206,PROJ-011,Supply Chain Visibility System,EMP-025,Amit Chaturvedi,2025-01,78.5,2300,Karan Patel,Backend Development
+TS-00207,PROJ-011,Supply Chain Visibility System,EMP-022,Xena Dsouza,2025-02,99.9,2600,Karan Patel,Backend Development
+TS-00208,PROJ-011,Supply Chain Visibility System,EMP-011,Lokesh Pandey,2025-02,20.5,2600,Karan Patel,Backend Development
+TS-00209,PROJ-011,Supply Chain Visibility System,EMP-025,Amit Chaturvedi,2025-02,128.2,2400,Karan Patel,Backend Development
+TS-00210,PROJ-011,Supply Chain Visibility System,EMP-022,Xena Dsouza,2025-03,118.9,2700,Karan Patel,Backend Development
+TS-00211,PROJ-011,Supply Chain Visibility System,EMP-011,Lokesh Pandey,2025-03,109.0,2700,Karan Patel,Backend Development
+TS-00212,PROJ-011,Supply Chain Visibility System,EMP-027,Chirag Malhotra,2025-03,82.7,2400,Karan Patel,Backend Development
+TS-00213,PROJ-011,Supply Chain Visibility System,EMP-025,Amit Chaturvedi,2025-03,66.6,2700,Karan Patel,Backend Development
+TS-00214,PROJ-011,Supply Chain Visibility System,EMP-027,Chirag Malhotra,2025-04,67.4,2700,Karan Patel,Backend Development
+TS-00215,PROJ-011,Supply Chain Visibility System,EMP-025,Amit Chaturvedi,2025-04,57.7,2500,Karan Patel,Backend Development
+TS-00216,PROJ-011,Supply Chain Visibility System,EMP-011,Lokesh Pandey,2025-05,158.3,2600,Karan Patel,Backend Development
+TS-00217,PROJ-011,Supply Chain Visibility System,EMP-027,Chirag Malhotra,2025-05,32.8,2700,Karan Patel,Backend Development
+TS-00218,PROJ-011,Supply Chain Visibility System,EMP-025,Amit Chaturvedi,2025-05,154.8,2400,Karan Patel,Backend Development
+TS-00219,PROJ-011,Supply Chain Visibility System,EMP-022,Xena Dsouza,2025-06,136.8,2300,Karan Patel,Backend Development
+TS-00220,PROJ-011,Supply Chain Visibility System,EMP-027,Chirag Malhotra,2025-06,31.6,2700,Karan Patel,Backend Development
+TS-00221,PROJ-012,Chatbot — Customer Support,EMP-008,Ishita Bose,2025-01,127.2,1800,Karan Patel,Frontend Development
+TS-00222,PROJ-012,Chatbot — Customer Support,EMP-027,Chirag Malhotra,2025-01,69.6,1700,Karan Patel,Frontend Development
+TS-00223,PROJ-012,Chatbot — Customer Support,EMP-002,Bhavna Joshi,2025-01,111.2,1900,Karan Patel,Frontend Development
+TS-00224,PROJ-012,Chatbot — Customer Support,EMP-027,Chirag Malhotra,2025-02,143.1,1900,Karan Patel,Frontend Development
+TS-00225,PROJ-012,Chatbot — Customer Support,EMP-002,Bhavna Joshi,2025-02,102.6,1800,Karan Patel,Frontend Development
+TS-00226,PROJ-012,Chatbot — Customer Support,EMP-008,Ishita Bose,2025-03,53.1,1800,Karan Patel,Frontend Development
+TS-00227,PROJ-012,Chatbot — Customer Support,EMP-027,Chirag Malhotra,2025-03,156.8,2000,Karan Patel,Frontend Development
+TS-00228,PROJ-012,Chatbot — Customer Support,EMP-002,Bhavna Joshi,2025-03,25.1,1800,Karan Patel,Frontend Development
+TS-00229,PROJ-012,Chatbot — Customer Support,EMP-008,Ishita Bose,2025-04,14.3,1800,Karan Patel,Frontend Development
+TS-00230,PROJ-012,Chatbot — Customer Support,EMP-027,Chirag Malhotra,2025-04,63.8,1900,Karan Patel,Frontend Development
+TS-00231,PROJ-012,Chatbot — Customer Support,EMP-002,Bhavna Joshi,2025-04,71.8,2000,Karan Patel,Frontend Development
+TS-00232,PROJ-012,Chatbot — Customer Support,EMP-008,Ishita Bose,2025-05,36.3,1900,Karan Patel,Frontend Development
+TS-00233,PROJ-012,Chatbot — Customer Support,EMP-027,Chirag Malhotra,2025-05,112.5,1900,Karan Patel,Frontend Development
+TS-00234,PROJ-012,Chatbot — Customer Support,EMP-002,Bhavna Joshi,2025-05,44.8,2000,Karan Patel,Frontend Development
+TS-00235,PROJ-012,Chatbot — Customer Support,EMP-008,Ishita Bose,2025-06,110.0,2100,Karan Patel,Frontend Development
+TS-00236,PROJ-012,Chatbot — Customer Support,EMP-027,Chirag Malhotra,2025-06,53.1,1900,Karan Patel,Frontend Development
+TS-00237,PROJ-012,Chatbot — Customer Support,EMP-002,Bhavna Joshi,2025-06,151.8,2100,Karan Patel,Frontend Development
+TS-00238,PROJ-013,Microservices Refactoring,EMP-013,Nikhil Sinha,2025-01,154.3,3200,Divya Sharma,Data Engineering
+TS-00239,PROJ-013,Microservices Refactoring,EMP-009,Jayesh Thakkar,2025-01,55.3,3400,Divya Sharma,Data Engineering
+TS-00240,PROJ-013,Microservices Refactoring,EMP-007,Harsh Agarwal,2025-01,67.2,3000,Divya Sharma,Data Engineering
+TS-00241,PROJ-013,Microservices Refactoring,EMP-030,Falak Shaikh,2025-01,114.9,2800,Divya Sharma,Data Engineering
+TS-00242,PROJ-013,Microservices Refactoring,EMP-009,Jayesh Thakkar,2025-02,11.2,3300,Divya Sharma,Data Engineering
+TS-00243,PROJ-013,Microservices Refactoring,EMP-003,Chetan Rao,2025-02,156.0,3400,Divya Sharma,Data Engineering
+TS-00244,PROJ-013,Microservices Refactoring,EMP-007,Harsh Agarwal,2025-02,134.9,3300,Divya Sharma,Data Engineering
+TS-00245,PROJ-013,Microservices Refactoring,EMP-030,Falak Shaikh,2025-02,44.5,3300,Divya Sharma,Data Engineering
+TS-00246,PROJ-013,Microservices Refactoring,EMP-013,Nikhil Sinha,2025-03,38.5,2900,Divya Sharma,Data Engineering
+TS-00247,PROJ-013,Microservices Refactoring,EMP-009,Jayesh Thakkar,2025-03,125.1,3200,Divya Sharma,Data Engineering
+TS-00248,PROJ-013,Microservices Refactoring,EMP-003,Chetan Rao,2025-03,24.6,3200,Divya Sharma,Data Engineering
+TS-00249,PROJ-013,Microservices Refactoring,EMP-007,Harsh Agarwal,2025-03,128.3,2800,Divya Sharma,Data Engineering
+TS-00250,PROJ-013,Microservices Refactoring,EMP-030,Falak Shaikh,2025-03,29.7,3400,Divya Sharma,Data Engineering
+TS-00251,PROJ-013,Microservices Refactoring,EMP-013,Nikhil Sinha,2025-04,72.3,2900,Divya Sharma,Data Engineering
+TS-00252,PROJ-013,Microservices Refactoring,EMP-009,Jayesh Thakkar,2025-04,141.5,3000,Divya Sharma,Data Engineering
+TS-00253,PROJ-013,Microservices Refactoring,EMP-003,Chetan Rao,2025-04,50.9,2900,Divya Sharma,Data Engineering
+TS-00254,PROJ-013,Microservices Refactoring,EMP-009,Jayesh Thakkar,2025-05,140.6,3300,Divya Sharma,Data Engineering
+TS-00255,PROJ-013,Microservices Refactoring,EMP-003,Chetan Rao,2025-05,21.3,3300,Divya Sharma,Data Engineering
+TS-00256,PROJ-013,Microservices Refactoring,EMP-007,Harsh Agarwal,2025-05,111.4,3200,Divya Sharma,Data Engineering
+TS-00257,PROJ-013,Microservices Refactoring,EMP-030,Falak Shaikh,2025-05,136.9,3100,Divya Sharma,Data Engineering
+TS-00258,PROJ-013,Microservices Refactoring,EMP-013,Nikhil Sinha,2025-06,69.2,3000,Divya Sharma,Data Engineering
+TS-00259,PROJ-013,Microservices Refactoring,EMP-009,Jayesh Thakkar,2025-06,65.3,3300,Divya Sharma,Data Engineering
+TS-00260,PROJ-013,Microservices Refactoring,EMP-003,Chetan Rao,2025-06,67.2,3200,Divya Sharma,Data Engineering
+TS-00261,PROJ-013,Microservices Refactoring,EMP-007,Harsh Agarwal,2025-06,111.2,3100,Divya Sharma,Data Engineering
+TS-00262,PROJ-013,Microservices Refactoring,EMP-030,Falak Shaikh,2025-06,151.5,3000,Divya Sharma,Data Engineering
+TS-00263,PROJ-014,IoT Fleet Management Platform,EMP-007,Harsh Agarwal,2025-01,107.1,3000,Priya Mehta,DevOps
+TS-00264,PROJ-014,IoT Fleet Management Platform,EMP-021,Waseem Khan,2025-01,115.2,3000,Priya Mehta,DevOps
+TS-00265,PROJ-014,IoT Fleet Management Platform,EMP-016,Ritu Saxena,2025-01,16.8,2600,Priya Mehta,DevOps
+TS-00266,PROJ-014,IoT Fleet Management Platform,EMP-029,Eshan Tripathi,2025-01,45.2,2900,Priya Mehta,DevOps
+TS-00267,PROJ-014,IoT Fleet Management Platform,EMP-007,Harsh Agarwal,2025-02,65.7,3200,Priya Mehta,DevOps
+TS-00268,PROJ-014,IoT Fleet Management Platform,EMP-021,Waseem Khan,2025-02,91.0,3000,Priya Mehta,DevOps
+TS-00269,PROJ-014,IoT Fleet Management Platform,EMP-016,Ritu Saxena,2025-02,142.8,3000,Priya Mehta,DevOps
+TS-00270,PROJ-014,IoT Fleet Management Platform,EMP-029,Eshan Tripathi,2025-02,150.9,2800,Priya Mehta,DevOps
+TS-00271,PROJ-014,IoT Fleet Management Platform,EMP-007,Harsh Agarwal,2025-03,42.6,2900,Priya Mehta,DevOps
+TS-00272,PROJ-014,IoT Fleet Management Platform,EMP-021,Waseem Khan,2025-03,64.4,3200,Priya Mehta,DevOps
+TS-00273,PROJ-014,IoT Fleet Management Platform,EMP-016,Ritu Saxena,2025-03,145.3,3000,Priya Mehta,DevOps
+TS-00274,PROJ-014,IoT Fleet Management Platform,EMP-013,Nikhil Sinha,2025-03,51.4,3200,Priya Mehta,DevOps
+TS-00275,PROJ-014,IoT Fleet Management Platform,EMP-021,Waseem Khan,2025-04,41.8,3000,Priya Mehta,DevOps
+TS-00276,PROJ-014,IoT Fleet Management Platform,EMP-013,Nikhil Sinha,2025-04,60.0,3200,Priya Mehta,DevOps
+TS-00277,PROJ-014,IoT Fleet Management Platform,EMP-029,Eshan Tripathi,2025-04,40.8,3100,Priya Mehta,DevOps
+TS-00278,PROJ-014,IoT Fleet Management Platform,EMP-007,Harsh Agarwal,2025-05,98.0,3100,Priya Mehta,DevOps
+TS-00279,PROJ-014,IoT Fleet Management Platform,EMP-021,Waseem Khan,2025-05,126.2,3100,Priya Mehta,DevOps
+TS-00280,PROJ-014,IoT Fleet Management Platform,EMP-016,Ritu Saxena,2025-05,51.6,3200,Priya Mehta,DevOps
+TS-00281,PROJ-014,IoT Fleet Management Platform,EMP-029,Eshan Tripathi,2025-05,129.8,2700,Priya Mehta,DevOps
+TS-00282,PROJ-014,IoT Fleet Management Platform,EMP-021,Waseem Khan,2025-06,63.7,3100,Priya Mehta,DevOps
+TS-00283,PROJ-014,IoT Fleet Management Platform,EMP-016,Ritu Saxena,2025-06,12.4,2800,Priya Mehta,DevOps
+TS-00284,PROJ-014,IoT Fleet Management Platform,EMP-013,Nikhil Sinha,2025-06,73.1,2700,Priya Mehta,DevOps
+TS-00285,PROJ-014,IoT Fleet Management Platform,EMP-029,Eshan Tripathi,2025-06,77.2,2800,Priya Mehta,DevOps
+TS-00286,PROJ-015,Cloud Cost Optimisation,EMP-005,Farhan Sheikh,2025-01,77.8,2500,Divya Sharma,QA
+TS-00287,PROJ-015,Cloud Cost Optimisation,EMP-009,Jayesh Thakkar,2025-01,119.1,2800,Divya Sharma,QA
+TS-00288,PROJ-015,Cloud Cost Optimisation,EMP-030,Falak Shaikh,2025-01,55.2,2700,Divya Sharma,QA
+TS-00289,PROJ-015,Cloud Cost Optimisation,EMP-008,Ishita Bose,2025-01,159.8,2800,Divya Sharma,QA
+TS-00290,PROJ-015,Cloud Cost Optimisation,EMP-024,Zara Hussain,2025-01,26.2,2700,Divya Sharma,QA
+TS-00291,PROJ-015,Cloud Cost Optimisation,EMP-018,Tanya Mishra,2025-01,144.9,2500,Divya Sharma,QA
+TS-00292,PROJ-015,Cloud Cost Optimisation,EMP-005,Farhan Sheikh,2025-02,28.9,2700,Divya Sharma,QA
+TS-00293,PROJ-015,Cloud Cost Optimisation,EMP-009,Jayesh Thakkar,2025-02,116.8,2500,Divya Sharma,QA
+TS-00294,PROJ-015,Cloud Cost Optimisation,EMP-030,Falak Shaikh,2025-02,54.2,2600,Divya Sharma,QA
+TS-00295,PROJ-015,Cloud Cost Optimisation,EMP-008,Ishita Bose,2025-02,129.0,2400,Divya Sharma,QA
+TS-00296,PROJ-015,Cloud Cost Optimisation,EMP-024,Zara Hussain,2025-02,141.7,2600,Divya Sharma,QA
+TS-00297,PROJ-015,Cloud Cost Optimisation,EMP-005,Farhan Sheikh,2025-03,143.2,2600,Divya Sharma,QA
+TS-00298,PROJ-015,Cloud Cost Optimisation,EMP-030,Falak Shaikh,2025-03,119.4,2500,Divya Sharma,QA
+TS-00299,PROJ-015,Cloud Cost Optimisation,EMP-008,Ishita Bose,2025-03,48.2,2800,Divya Sharma,QA
+TS-00300,PROJ-015,Cloud Cost Optimisation,EMP-024,Zara Hussain,2025-03,81.1,2400,Divya Sharma,QA
+TS-00301,PROJ-015,Cloud Cost Optimisation,EMP-018,Tanya Mishra,2025-03,74.8,2700,Divya Sharma,QA
+TS-00302,PROJ-015,Cloud Cost Optimisation,EMP-005,Farhan Sheikh,2025-04,29.5,2400,Divya Sharma,QA
+TS-00303,PROJ-015,Cloud Cost Optimisation,EMP-030,Falak Shaikh,2025-04,110.5,2600,Divya Sharma,QA
+TS-00304,PROJ-015,Cloud Cost Optimisation,EMP-018,Tanya Mishra,2025-04,147.4,2400,Divya Sharma,QA
+TS-00305,PROJ-015,Cloud Cost Optimisation,EMP-005,Farhan Sheikh,2025-05,56.9,2400,Divya Sharma,QA
+TS-00306,PROJ-015,Cloud Cost Optimisation,EMP-009,Jayesh Thakkar,2025-05,33.2,2600,Divya Sharma,QA
+TS-00307,PROJ-015,Cloud Cost Optimisation,EMP-008,Ishita Bose,2025-05,93.4,2400,Divya Sharma,QA
+TS-00308,PROJ-015,Cloud Cost Optimisation,EMP-024,Zara Hussain,2025-05,43.9,2600,Divya Sharma,QA
+TS-00309,PROJ-015,Cloud Cost Optimisation,EMP-018,Tanya Mishra,2025-05,125.1,2700,Divya Sharma,QA
+TS-00310,PROJ-015,Cloud Cost Optimisation,EMP-005,Farhan Sheikh,2025-06,93.5,2700,Divya Sharma,QA
+TS-00311,PROJ-015,Cloud Cost Optimisation,EMP-009,Jayesh Thakkar,2025-06,114.0,2400,Divya Sharma,QA
+TS-00312,PROJ-015,Cloud Cost Optimisation,EMP-030,Falak Shaikh,2025-06,124.4,2800,Divya Sharma,QA
+TS-00313,PROJ-015,Cloud Cost Optimisation,EMP-008,Ishita Bose,2025-06,37.2,2400,Divya Sharma,QA
+TS-00314,PROJ-015,Cloud Cost Optimisation,EMP-024,Zara Hussain,2025-06,20.4,2700,Divya Sharma,QA
+TS-00315,PROJ-016,Real Estate Listing Portal,EMP-024,Zara Hussain,2025-01,89.6,1800,Arjun Nair,QA
+TS-00316,PROJ-016,Real Estate Listing Portal,EMP-019,Uday Kulkarni,2025-01,33.6,1700,Arjun Nair,QA
+TS-00317,PROJ-016,Real Estate Listing Portal,EMP-014,Pooja Reddy,2025-01,151.2,1800,Arjun Nair,QA
+TS-00318,PROJ-016,Real Estate Listing Portal,EMP-013,Nikhil Sinha,2025-01,123.2,1600,Arjun Nair,QA
+TS-00319,PROJ-016,Real Estate Listing Portal,EMP-024,Zara Hussain,2025-02,76.5,1800,Arjun Nair,QA
+TS-00320,PROJ-016,Real Estate Listing Portal,EMP-019,Uday Kulkarni,2025-02,72.1,1700,Arjun Nair,QA
+TS-00321,PROJ-016,Real Estate Listing Portal,EMP-014,Pooja Reddy,2025-02,61.8,1700,Arjun Nair,QA
+TS-00322,PROJ-016,Real Estate Listing Portal,EMP-029,Eshan Tripathi,2025-02,99.0,1800,Arjun Nair,QA
+TS-00323,PROJ-016,Real Estate Listing Portal,EMP-013,Nikhil Sinha,2025-02,43.1,2000,Arjun Nair,QA
+TS-00324,PROJ-016,Real Estate Listing Portal,EMP-024,Zara Hussain,2025-03,40.7,2000,Arjun Nair,QA
+TS-00325,PROJ-016,Real Estate Listing Portal,EMP-019,Uday Kulkarni,2025-03,124.6,1700,Arjun Nair,QA
+TS-00326,PROJ-016,Real Estate Listing Portal,EMP-014,Pooja Reddy,2025-03,84.6,1800,Arjun Nair,QA
+TS-00327,PROJ-016,Real Estate Listing Portal,EMP-029,Eshan Tripathi,2025-03,89.9,1700,Arjun Nair,QA
+TS-00328,PROJ-016,Real Estate Listing Portal,EMP-013,Nikhil Sinha,2025-03,110.2,1700,Arjun Nair,QA
+TS-00329,PROJ-016,Real Estate Listing Portal,EMP-024,Zara Hussain,2025-04,121.3,1800,Arjun Nair,QA
+TS-00330,PROJ-016,Real Estate Listing Portal,EMP-019,Uday Kulkarni,2025-04,21.7,1700,Arjun Nair,QA
+TS-00331,PROJ-016,Real Estate Listing Portal,EMP-014,Pooja Reddy,2025-04,70.7,1900,Arjun Nair,QA
+TS-00332,PROJ-016,Real Estate Listing Portal,EMP-029,Eshan Tripathi,2025-04,70.8,2000,Arjun Nair,QA
+TS-00333,PROJ-016,Real Estate Listing Portal,EMP-013,Nikhil Sinha,2025-04,152.1,1800,Arjun Nair,QA
+TS-00334,PROJ-016,Real Estate Listing Portal,EMP-024,Zara Hussain,2025-05,64.3,1800,Arjun Nair,QA
+TS-00335,PROJ-016,Real Estate Listing Portal,EMP-019,Uday Kulkarni,2025-05,75.4,1800,Arjun Nair,QA
+TS-00336,PROJ-016,Real Estate Listing Portal,EMP-014,Pooja Reddy,2025-05,140.6,1900,Arjun Nair,QA
+TS-00337,PROJ-016,Real Estate Listing Portal,EMP-029,Eshan Tripathi,2025-05,126.9,1600,Arjun Nair,QA
+TS-00338,PROJ-016,Real Estate Listing Portal,EMP-013,Nikhil Sinha,2025-05,89.6,1700,Arjun Nair,QA
+TS-00339,PROJ-016,Real Estate Listing Portal,EMP-024,Zara Hussain,2025-06,62.7,2000,Arjun Nair,QA
+TS-00340,PROJ-016,Real Estate Listing Portal,EMP-019,Uday Kulkarni,2025-06,32.2,1700,Arjun Nair,QA
+TS-00341,PROJ-016,Real Estate Listing Portal,EMP-014,Pooja Reddy,2025-06,36.0,1700,Arjun Nair,QA
+TS-00342,PROJ-016,Real Estate Listing Portal,EMP-029,Eshan Tripathi,2025-06,21.3,2000,Arjun Nair,QA
+TS-00343,PROJ-016,Real Estate Listing Portal,EMP-013,Nikhil Sinha,2025-06,79.6,1800,Arjun Nair,QA
+TS-00344,PROJ-017,AI Resume Screening Tool,EMP-008,Ishita Bose,2025-01,112.2,2400,Priya Mehta,Frontend Development
+TS-00345,PROJ-017,AI Resume Screening Tool,EMP-005,Farhan Sheikh,2025-01,158.0,2100,Priya Mehta,Frontend Development
+TS-00346,PROJ-017,AI Resume Screening Tool,EMP-016,Ritu Saxena,2025-01,76.0,2200,Priya Mehta,Frontend Development
+TS-00347,PROJ-017,AI Resume Screening Tool,EMP-003,Chetan Rao,2025-01,129.4,2200,Priya Mehta,Frontend Development
+TS-00348,PROJ-017,AI Resume Screening Tool,EMP-008,Ishita Bose,2025-02,21.1,2200,Priya Mehta,Frontend Development
+TS-00349,PROJ-017,AI Resume Screening Tool,EMP-005,Farhan Sheikh,2025-02,65.3,2100,Priya Mehta,Frontend Development
+TS-00350,PROJ-017,AI Resume Screening Tool,EMP-017,Siddharth Jain,2025-02,156.6,2000,Priya Mehta,Frontend Development
+TS-00351,PROJ-017,AI Resume Screening Tool,EMP-016,Ritu Saxena,2025-02,67.7,2200,Priya Mehta,Frontend Development
+TS-00352,PROJ-017,AI Resume Screening Tool,EMP-008,Ishita Bose,2025-03,16.2,2400,Priya Mehta,Frontend Development
+TS-00353,PROJ-017,AI Resume Screening Tool,EMP-005,Farhan Sheikh,2025-03,38.2,2200,Priya Mehta,Frontend Development
+TS-00354,PROJ-017,AI Resume Screening Tool,EMP-017,Siddharth Jain,2025-03,153.7,2200,Priya Mehta,Frontend Development
+TS-00355,PROJ-017,AI Resume Screening Tool,EMP-005,Farhan Sheikh,2025-04,106.9,2000,Priya Mehta,Frontend Development
+TS-00356,PROJ-017,AI Resume Screening Tool,EMP-017,Siddharth Jain,2025-04,158.6,2200,Priya Mehta,Frontend Development
+TS-00357,PROJ-017,AI Resume Screening Tool,EMP-016,Ritu Saxena,2025-04,64.6,2400,Priya Mehta,Frontend Development
+TS-00358,PROJ-017,AI Resume Screening Tool,EMP-003,Chetan Rao,2025-04,126.2,2300,Priya Mehta,Frontend Development
+TS-00359,PROJ-017,AI Resume Screening Tool,EMP-008,Ishita Bose,2025-05,104.6,2100,Priya Mehta,Frontend Development
+TS-00360,PROJ-017,AI Resume Screening Tool,EMP-005,Farhan Sheikh,2025-05,93.7,2200,Priya Mehta,Frontend Development
+TS-00361,PROJ-017,AI Resume Screening Tool,EMP-017,Siddharth Jain,2025-05,137.7,2400,Priya Mehta,Frontend Development
+TS-00362,PROJ-017,AI Resume Screening Tool,EMP-016,Ritu Saxena,2025-05,32.6,2000,Priya Mehta,Frontend Development
+TS-00363,PROJ-017,AI Resume Screening Tool,EMP-003,Chetan Rao,2025-05,147.5,2100,Priya Mehta,Frontend Development
+TS-00364,PROJ-017,AI Resume Screening Tool,EMP-008,Ishita Bose,2025-06,109.3,2000,Priya Mehta,Frontend Development
+TS-00365,PROJ-017,AI Resume Screening Tool,EMP-005,Farhan Sheikh,2025-06,22.7,2200,Priya Mehta,Frontend Development
+TS-00366,PROJ-017,AI Resume Screening Tool,EMP-017,Siddharth Jain,2025-06,59.3,2000,Priya Mehta,Frontend Development
+TS-00367,PROJ-017,AI Resume Screening Tool,EMP-016,Ritu Saxena,2025-06,152.1,2400,Priya Mehta,Frontend Development
+TS-00368,PROJ-018,Inventory Management System,EMP-028,Disha Patil,2025-01,110.6,2000,Priya Mehta,Frontend Development
+TS-00369,PROJ-018,Inventory Management System,EMP-004,Deepa Nair,2025-01,56.3,2200,Priya Mehta,Frontend Development
+TS-00370,PROJ-018,Inventory Management System,EMP-005,Farhan Sheikh,2025-01,124.9,1900,Priya Mehta,Frontend Development
+TS-00371,PROJ-018,Inventory Management System,EMP-004,Deepa Nair,2025-02,54.4,2100,Priya Mehta,Frontend Development
+TS-00372,PROJ-018,Inventory Management System,EMP-005,Farhan Sheikh,2025-02,91.0,2100,Priya Mehta,Frontend Development
+TS-00373,PROJ-018,Inventory Management System,EMP-028,Disha Patil,2025-03,109.3,2200,Priya Mehta,Frontend Development
+TS-00374,PROJ-018,Inventory Management System,EMP-004,Deepa Nair,2025-03,99.6,1900,Priya Mehta,Frontend Development
+TS-00375,PROJ-018,Inventory Management System,EMP-005,Farhan Sheikh,2025-03,113.9,2000,Priya Mehta,Frontend Development
+TS-00376,PROJ-018,Inventory Management System,EMP-004,Deepa Nair,2025-04,16.6,1900,Priya Mehta,Frontend Development
+TS-00377,PROJ-018,Inventory Management System,EMP-005,Farhan Sheikh,2025-04,155.4,2000,Priya Mehta,Frontend Development
+TS-00378,PROJ-018,Inventory Management System,EMP-028,Disha Patil,2025-05,127.6,1900,Priya Mehta,Frontend Development
+TS-00379,PROJ-018,Inventory Management System,EMP-004,Deepa Nair,2025-05,154.8,2100,Priya Mehta,Frontend Development
+TS-00380,PROJ-018,Inventory Management System,EMP-028,Disha Patil,2025-06,111.7,2000,Priya Mehta,Frontend Development
+TS-00381,PROJ-018,Inventory Management System,EMP-004,Deepa Nair,2025-06,125.4,2100,Priya Mehta,Frontend Development
+TS-00382,PROJ-018,Inventory Management System,EMP-005,Farhan Sheikh,2025-06,72.8,1900,Priya Mehta,Frontend Development
+TS-00383,PROJ-019,Payments Gateway Integration,EMP-026,Bindu Narayanan,2025-01,100.7,3200,Priya Mehta,QA
+TS-00384,PROJ-019,Payments Gateway Integration,EMP-022,Xena Dsouza,2025-01,82.1,2900,Priya Mehta,QA
+TS-00385,PROJ-019,Payments Gateway Integration,EMP-020,Vandana Tiwari,2025-01,87.4,2800,Priya Mehta,QA
+TS-00386,PROJ-019,Payments Gateway Integration,EMP-026,Bindu Narayanan,2025-02,34.0,3000,Priya Mehta,QA
+TS-00387,PROJ-019,Payments Gateway Integration,EMP-022,Xena Dsouza,2025-02,134.7,2800,Priya Mehta,QA
+TS-00388,PROJ-019,Payments Gateway Integration,EMP-014,Pooja Reddy,2025-03,69.5,2900,Priya Mehta,QA
+TS-00389,PROJ-019,Payments Gateway Integration,EMP-020,Vandana Tiwari,2025-03,22.2,2800,Priya Mehta,QA
+TS-00390,PROJ-019,Payments Gateway Integration,EMP-026,Bindu Narayanan,2025-04,24.9,3100,Priya Mehta,QA
+TS-00391,PROJ-019,Payments Gateway Integration,EMP-022,Xena Dsouza,2025-04,31.9,2700,Priya Mehta,QA
+TS-00392,PROJ-019,Payments Gateway Integration,EMP-020,Vandana Tiwari,2025-04,134.7,3200,Priya Mehta,QA
+TS-00393,PROJ-019,Payments Gateway Integration,EMP-026,Bindu Narayanan,2025-05,102.3,3200,Priya Mehta,QA
+TS-00394,PROJ-019,Payments Gateway Integration,EMP-022,Xena Dsouza,2025-05,42.3,2800,Priya Mehta,QA
+TS-00395,PROJ-019,Payments Gateway Integration,EMP-020,Vandana Tiwari,2025-05,73.5,3200,Priya Mehta,QA
+TS-00396,PROJ-019,Payments Gateway Integration,EMP-026,Bindu Narayanan,2025-06,28.3,2800,Priya Mehta,QA
+TS-00397,PROJ-019,Payments Gateway Integration,EMP-022,Xena Dsouza,2025-06,103.4,2700,Priya Mehta,QA
+TS-00398,PROJ-019,Payments Gateway Integration,EMP-020,Vandana Tiwari,2025-06,90.4,3100,Priya Mehta,QA
+TS-00399,PROJ-020,Compliance Reporting Engine,EMP-013,Nikhil Sinha,2025-01,117.8,2700,Rahul Desai,Backend Development
+TS-00400,PROJ-020,Compliance Reporting Engine,EMP-020,Vandana Tiwari,2025-01,62.9,2800,Rahul Desai,Backend Development
+TS-00401,PROJ-020,Compliance Reporting Engine,EMP-015,Qasim Ali,2025-01,110.2,2800,Rahul Desai,Backend Development
+TS-00402,PROJ-020,Compliance Reporting Engine,EMP-013,Nikhil Sinha,2025-02,153.0,2800,Rahul Desai,Backend Development
+TS-00403,PROJ-020,Compliance Reporting Engine,EMP-020,Vandana Tiwari,2025-02,86.1,2500,Rahul Desai,Backend Development
+TS-00404,PROJ-020,Compliance Reporting Engine,EMP-013,Nikhil Sinha,2025-03,68.0,2700,Rahul Desai,Backend Development
+TS-00405,PROJ-020,Compliance Reporting Engine,EMP-020,Vandana Tiwari,2025-03,63.6,2600,Rahul Desai,Backend Development
+TS-00406,PROJ-020,Compliance Reporting Engine,EMP-015,Qasim Ali,2025-03,108.6,2600,Rahul Desai,Backend Development
+TS-00407,PROJ-020,Compliance Reporting Engine,EMP-013,Nikhil Sinha,2025-04,123.5,2600,Rahul Desai,Backend Development
+TS-00408,PROJ-020,Compliance Reporting Engine,EMP-020,Vandana Tiwari,2025-04,60.8,2900,Rahul Desai,Backend Development
+TS-00409,PROJ-020,Compliance Reporting Engine,EMP-013,Nikhil Sinha,2025-05,157.1,2800,Rahul Desai,Backend Development
+TS-00410,PROJ-020,Compliance Reporting Engine,EMP-020,Vandana Tiwari,2025-05,30.2,2900,Rahul Desai,Backend Development
+TS-00411,PROJ-020,Compliance Reporting Engine,EMP-013,Nikhil Sinha,2025-06,40.2,3000,Rahul Desai,Backend Development
+TS-00412,PROJ-020,Compliance Reporting Engine,EMP-015,Qasim Ali,2025-06,56.5,2700,Rahul Desai,Backend Development
+TS-00413,PROJ-021,API Gateway Consolidation,EMP-028,Disha Patil,2025-01,15.5,2700,Rahul Desai,Backend Development
+TS-00414,PROJ-021,API Gateway Consolidation,EMP-001,Aakash Verma,2025-01,139.3,2400,Rahul Desai,Backend Development
+TS-00415,PROJ-021,API Gateway Consolidation,EMP-022,Xena Dsouza,2025-01,51.0,2800,Rahul Desai,Backend Development
+TS-00416,PROJ-021,API Gateway Consolidation,EMP-024,Zara Hussain,2025-01,70.0,2600,Rahul Desai,Backend Development
+TS-00417,PROJ-021,API Gateway Consolidation,EMP-028,Disha Patil,2025-02,38.0,2700,Rahul Desai,Backend Development
+TS-00418,PROJ-021,API Gateway Consolidation,EMP-001,Aakash Verma,2025-02,129.6,2500,Rahul Desai,Backend Development
+TS-00419,PROJ-021,API Gateway Consolidation,EMP-022,Xena Dsouza,2025-02,73.7,2600,Rahul Desai,Backend Development
+TS-00420,PROJ-021,API Gateway Consolidation,EMP-018,Tanya Mishra,2025-03,54.1,2400,Rahul Desai,Backend Development
+TS-00421,PROJ-021,API Gateway Consolidation,EMP-028,Disha Patil,2025-03,54.3,2600,Rahul Desai,Backend Development
+TS-00422,PROJ-021,API Gateway Consolidation,EMP-001,Aakash Verma,2025-03,35.0,2600,Rahul Desai,Backend Development
+TS-00423,PROJ-021,API Gateway Consolidation,EMP-022,Xena Dsouza,2025-03,119.0,2800,Rahul Desai,Backend Development
+TS-00424,PROJ-021,API Gateway Consolidation,EMP-024,Zara Hussain,2025-03,75.2,2700,Rahul Desai,Backend Development
+TS-00425,PROJ-021,API Gateway Consolidation,EMP-018,Tanya Mishra,2025-04,18.6,2700,Rahul Desai,Backend Development
+TS-00426,PROJ-021,API Gateway Consolidation,EMP-028,Disha Patil,2025-04,87.0,2700,Rahul Desai,Backend Development
+TS-00427,PROJ-021,API Gateway Consolidation,EMP-001,Aakash Verma,2025-04,14.7,2800,Rahul Desai,Backend Development
+TS-00428,PROJ-021,API Gateway Consolidation,EMP-022,Xena Dsouza,2025-04,75.7,2400,Rahul Desai,Backend Development
+TS-00429,PROJ-021,API Gateway Consolidation,EMP-024,Zara Hussain,2025-04,106.8,2500,Rahul Desai,Backend Development
+TS-00430,PROJ-021,API Gateway Consolidation,EMP-028,Disha Patil,2025-05,33.0,2600,Rahul Desai,Backend Development
+TS-00431,PROJ-021,API Gateway Consolidation,EMP-001,Aakash Verma,2025-05,76.6,2400,Rahul Desai,Backend Development
+TS-00432,PROJ-021,API Gateway Consolidation,EMP-022,Xena Dsouza,2025-05,65.0,2500,Rahul Desai,Backend Development
+TS-00433,PROJ-021,API Gateway Consolidation,EMP-024,Zara Hussain,2025-05,154.1,2400,Rahul Desai,Backend Development
+TS-00434,PROJ-021,API Gateway Consolidation,EMP-018,Tanya Mishra,2025-06,87.7,2800,Rahul Desai,Backend Development
+TS-00435,PROJ-021,API Gateway Consolidation,EMP-028,Disha Patil,2025-06,126.2,2700,Rahul Desai,Backend Development
+TS-00436,PROJ-021,API Gateway Consolidation,EMP-001,Aakash Verma,2025-06,101.8,2700,Rahul Desai,Backend Development
+TS-00437,PROJ-021,API Gateway Consolidation,EMP-024,Zara Hussain,2025-06,30.4,2400,Rahul Desai,Backend Development
+TS-00438,PROJ-022,BI Reporting Suite,EMP-022,Xena Dsouza,2025-01,117.0,3500,Divya Sharma,DevOps
+TS-00439,PROJ-022,BI Reporting Suite,EMP-029,Eshan Tripathi,2025-02,116.4,3400,Divya Sharma,DevOps
+TS-00440,PROJ-022,BI Reporting Suite,EMP-018,Tanya Mishra,2025-02,55.0,3200,Divya Sharma,DevOps
+TS-00441,PROJ-022,BI Reporting Suite,EMP-022,Xena Dsouza,2025-03,115.0,3200,Divya Sharma,DevOps
+TS-00442,PROJ-022,BI Reporting Suite,EMP-029,Eshan Tripathi,2025-03,43.6,3500,Divya Sharma,DevOps
+TS-00443,PROJ-022,BI Reporting Suite,EMP-018,Tanya Mishra,2025-03,45.5,3400,Divya Sharma,DevOps
+TS-00444,PROJ-022,BI Reporting Suite,EMP-022,Xena Dsouza,2025-04,95.8,3400,Divya Sharma,DevOps
+TS-00445,PROJ-022,BI Reporting Suite,EMP-018,Tanya Mishra,2025-04,142.6,3100,Divya Sharma,DevOps
+TS-00446,PROJ-022,BI Reporting Suite,EMP-022,Xena Dsouza,2025-05,117.5,3400,Divya Sharma,DevOps
+TS-00447,PROJ-022,BI Reporting Suite,EMP-029,Eshan Tripathi,2025-05,71.4,3500,Divya Sharma,DevOps
+TS-00448,PROJ-022,BI Reporting Suite,EMP-018,Tanya Mishra,2025-05,57.6,3100,Divya Sharma,DevOps
+TS-00449,PROJ-022,BI Reporting Suite,EMP-022,Xena Dsouza,2025-06,87.6,3100,Divya Sharma,DevOps
+TS-00450,PROJ-022,BI Reporting Suite,EMP-018,Tanya Mishra,2025-06,98.2,3500,Divya Sharma,DevOps
+TS-00451,PROJ-023,Legacy Code Migration,EMP-025,Amit Chaturvedi,2025-01,85.4,1800,Divya Sharma,Backend Development
+TS-00452,PROJ-023,Legacy Code Migration,EMP-011,Lokesh Pandey,2025-01,55.6,1600,Divya Sharma,Backend Development
+TS-00453,PROJ-023,Legacy Code Migration,EMP-010,Kavya Menon,2025-01,152.1,1700,Divya Sharma,Backend Development
+TS-00454,PROJ-023,Legacy Code Migration,EMP-025,Amit Chaturvedi,2025-02,21.8,1600,Divya Sharma,Backend Development
+TS-00455,PROJ-023,Legacy Code Migration,EMP-011,Lokesh Pandey,2025-02,103.8,1700,Divya Sharma,Backend Development
+TS-00456,PROJ-023,Legacy Code Migration,EMP-004,Deepa Nair,2025-02,106.1,1700,Divya Sharma,Backend Development
+TS-00457,PROJ-023,Legacy Code Migration,EMP-010,Kavya Menon,2025-02,35.7,1700,Divya Sharma,Backend Development
+TS-00458,PROJ-023,Legacy Code Migration,EMP-021,Waseem Khan,2025-03,148.6,1500,Divya Sharma,Backend Development
+TS-00459,PROJ-023,Legacy Code Migration,EMP-004,Deepa Nair,2025-03,152.3,1800,Divya Sharma,Backend Development
+TS-00460,PROJ-023,Legacy Code Migration,EMP-010,Kavya Menon,2025-03,41.6,1700,Divya Sharma,Backend Development
+TS-00461,PROJ-023,Legacy Code Migration,EMP-025,Amit Chaturvedi,2025-04,14.5,1800,Divya Sharma,Backend Development
+TS-00462,PROJ-023,Legacy Code Migration,EMP-021,Waseem Khan,2025-04,106.3,1600,Divya Sharma,Backend Development
+TS-00463,PROJ-023,Legacy Code Migration,EMP-011,Lokesh Pandey,2025-04,131.1,1700,Divya Sharma,Backend Development
+TS-00464,PROJ-023,Legacy Code Migration,EMP-004,Deepa Nair,2025-04,113.3,1600,Divya Sharma,Backend Development
+TS-00465,PROJ-023,Legacy Code Migration,EMP-010,Kavya Menon,2025-04,79.7,1600,Divya Sharma,Backend Development
+TS-00466,PROJ-023,Legacy Code Migration,EMP-025,Amit Chaturvedi,2025-05,139.2,1600,Divya Sharma,Backend Development
+TS-00467,PROJ-023,Legacy Code Migration,EMP-011,Lokesh Pandey,2025-05,69.8,1800,Divya Sharma,Backend Development
+TS-00468,PROJ-023,Legacy Code Migration,EMP-004,Deepa Nair,2025-05,25.9,1600,Divya Sharma,Backend Development
+TS-00469,PROJ-023,Legacy Code Migration,EMP-010,Kavya Menon,2025-05,77.4,1600,Divya Sharma,Backend Development
+TS-00470,PROJ-023,Legacy Code Migration,EMP-025,Amit Chaturvedi,2025-06,151.8,1800,Divya Sharma,Backend Development
+TS-00471,PROJ-023,Legacy Code Migration,EMP-021,Waseem Khan,2025-06,154.4,1800,Divya Sharma,Backend Development
+TS-00472,PROJ-023,Legacy Code Migration,EMP-010,Kavya Menon,2025-06,38.5,1600,Divya Sharma,Backend Development
+TS-00473,PROJ-024,Data Quality Framework,EMP-015,Qasim Ali,2025-01,141.9,3200,Priya Mehta,QA
+TS-00474,PROJ-024,Data Quality Framework,EMP-001,Aakash Verma,2025-01,69.0,3200,Priya Mehta,QA
+TS-00475,PROJ-024,Data Quality Framework,EMP-024,Zara Hussain,2025-01,97.5,2900,Priya Mehta,QA
+TS-00476,PROJ-024,Data Quality Framework,EMP-027,Chirag Malhotra,2025-01,99.6,3400,Priya Mehta,QA
+TS-00477,PROJ-024,Data Quality Framework,EMP-009,Jayesh Thakkar,2025-01,52.9,2900,Priya Mehta,QA
+TS-00478,PROJ-024,Data Quality Framework,EMP-006,Gayatri Pillai,2025-02,30.1,3000,Priya Mehta,QA
+TS-00479,PROJ-024,Data Quality Framework,EMP-015,Qasim Ali,2025-02,70.5,2900,Priya Mehta,QA
+TS-00480,PROJ-024,Data Quality Framework,EMP-001,Aakash Verma,2025-02,94.3,3100,Priya Mehta,QA
+TS-00481,PROJ-024,Data Quality Framework,EMP-024,Zara Hussain,2025-02,68.0,3200,Priya Mehta,QA
+TS-00482,PROJ-024,Data Quality Framework,EMP-027,Chirag Malhotra,2025-02,133.8,3300,Priya Mehta,QA
+TS-00483,PROJ-024,Data Quality Framework,EMP-009,Jayesh Thakkar,2025-02,29.3,2900,Priya Mehta,QA
+TS-00484,PROJ-024,Data Quality Framework,EMP-006,Gayatri Pillai,2025-03,158.0,3200,Priya Mehta,QA
+TS-00485,PROJ-024,Data Quality Framework,EMP-015,Qasim Ali,2025-03,31.6,3300,Priya Mehta,QA
+TS-00486,PROJ-024,Data Quality Framework,EMP-001,Aakash Verma,2025-03,16.0,2900,Priya Mehta,QA
+TS-00487,PROJ-024,Data Quality Framework,EMP-024,Zara Hussain,2025-03,130.6,3200,Priya Mehta,QA
+TS-00488,PROJ-024,Data Quality Framework,EMP-027,Chirag Malhotra,2025-03,144.0,3000,Priya Mehta,QA
+TS-00489,PROJ-024,Data Quality Framework,EMP-006,Gayatri Pillai,2025-04,68.9,3300,Priya Mehta,QA
+TS-00490,PROJ-024,Data Quality Framework,EMP-001,Aakash Verma,2025-04,86.1,3200,Priya Mehta,QA
+TS-00491,PROJ-024,Data Quality Framework,EMP-024,Zara Hussain,2025-04,94.4,3200,Priya Mehta,QA
+TS-00492,PROJ-024,Data Quality Framework,EMP-027,Chirag Malhotra,2025-04,59.7,3000,Priya Mehta,QA
+TS-00493,PROJ-024,Data Quality Framework,EMP-009,Jayesh Thakkar,2025-04,56.2,3500,Priya Mehta,QA
+TS-00494,PROJ-024,Data Quality Framework,EMP-015,Qasim Ali,2025-05,99.5,3000,Priya Mehta,QA
+TS-00495,PROJ-024,Data Quality Framework,EMP-001,Aakash Verma,2025-05,155.8,3300,Priya Mehta,QA
+TS-00496,PROJ-024,Data Quality Framework,EMP-024,Zara Hussain,2025-05,17.7,3200,Priya Mehta,QA
+TS-00497,PROJ-024,Data Quality Framework,EMP-027,Chirag Malhotra,2025-05,118.2,3400,Priya Mehta,QA
+TS-00498,PROJ-024,Data Quality Framework,EMP-009,Jayesh Thakkar,2025-05,133.2,3000,Priya Mehta,QA
+TS-00499,PROJ-024,Data Quality Framework,EMP-006,Gayatri Pillai,2025-06,115.1,3000,Priya Mehta,QA
+TS-00500,PROJ-024,Data Quality Framework,EMP-015,Qasim Ali,2025-06,72.8,3100,Priya Mehta,QA
+TS-00501,PROJ-024,Data Quality Framework,EMP-001,Aakash Verma,2025-06,85.3,3300,Priya Mehta,QA
+TS-00502,PROJ-024,Data Quality Framework,EMP-024,Zara Hussain,2025-06,137.3,3300,Priya Mehta,QA
+TS-00503,PROJ-024,Data Quality Framework,EMP-027,Chirag Malhotra,2025-06,87.8,3200,Priya Mehta,QA
+TS-00504,PROJ-025,SaaS Multi-Tenant Architecture,EMP-017,Siddharth Jain,2025-01,66.5,3500,Divya Sharma,QA
+TS-00505,PROJ-025,SaaS Multi-Tenant Architecture,EMP-030,Falak Shaikh,2025-01,90.0,3500,Divya Sharma,QA
+TS-00506,PROJ-025,SaaS Multi-Tenant Architecture,EMP-004,Deepa Nair,2025-01,140.1,3500,Divya Sharma,QA
+TS-00507,PROJ-025,SaaS Multi-Tenant Architecture,EMP-017,Siddharth Jain,2025-02,82.6,3500,Divya Sharma,QA
+TS-00508,PROJ-025,SaaS Multi-Tenant Architecture,EMP-030,Falak Shaikh,2025-02,54.8,3500,Divya Sharma,QA
+TS-00509,PROJ-025,SaaS Multi-Tenant Architecture,EMP-028,Disha Patil,2025-02,115.7,3500,Divya Sharma,QA
+TS-00510,PROJ-025,SaaS Multi-Tenant Architecture,EMP-017,Siddharth Jain,2025-03,82.0,3500,Divya Sharma,QA
+TS-00511,PROJ-025,SaaS Multi-Tenant Architecture,EMP-004,Deepa Nair,2025-03,53.2,3500,Divya Sharma,QA
+TS-00512,PROJ-025,SaaS Multi-Tenant Architecture,EMP-028,Disha Patil,2025-03,144.4,3400,Divya Sharma,QA
+TS-00513,PROJ-025,SaaS Multi-Tenant Architecture,EMP-017,Siddharth Jain,2025-04,126.0,3300,Divya Sharma,QA
+TS-00514,PROJ-025,SaaS Multi-Tenant Architecture,EMP-030,Falak Shaikh,2025-04,153.3,3200,Divya Sharma,QA
+TS-00515,PROJ-025,SaaS Multi-Tenant Architecture,EMP-028,Disha Patil,2025-04,122.1,3300,Divya Sharma,QA
+TS-00516,PROJ-025,SaaS Multi-Tenant Architecture,EMP-030,Falak Shaikh,2025-05,94.3,3300,Divya Sharma,QA
+TS-00517,PROJ-025,SaaS Multi-Tenant Architecture,EMP-004,Deepa Nair,2025-05,121.1,3300,Divya Sharma,QA
+TS-00518,PROJ-025,SaaS Multi-Tenant Architecture,EMP-028,Disha Patil,2025-05,145.8,3300,Divya Sharma,QA
+TS-00519,PROJ-025,SaaS Multi-Tenant Architecture,EMP-017,Siddharth Jain,2025-06,25.0,3400,Divya Sharma,QA
+TS-00520,PROJ-025,SaaS Multi-Tenant Architecture,EMP-030,Falak Shaikh,2025-06,112.2,3200,Divya Sharma,QA
